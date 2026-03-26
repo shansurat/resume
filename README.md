@@ -9,6 +9,9 @@ My personal resume, built with LaTeX using the [moderncv](https://ctan.org/pkg/m
 
 ## Build
 
+> [!IMPORTANT]
+> Use `pdflatex`, **not** `pdftex`. This is a LaTeX document and plain TeX will not work.
+
 ```bash
 pdflatex resume.tex
 ```
