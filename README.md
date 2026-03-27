@@ -1,5 +1,7 @@
 # Resume — Kristian Mark "Shan" Surat
 
+[View Resume (PDF)](resume.pdf)
+
 My personal resume, built with LaTeX using the [moderncv](https://ctan.org/pkg/moderncv) package.
 
 ## Requirements
